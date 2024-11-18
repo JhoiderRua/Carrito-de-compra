@@ -1,0 +1,25 @@
+.filters {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.filters > div {
+  display: flex;
+  gap: 1rem;
+}
+.categoria{
+  color: black;
+  font-size: 20px;
+  padding: 0 15px;
+}
+.option{
+  padding: 100px;
+}
+.select{
+  padding: 5px;
+  border-radius: 15px;
+
+}
