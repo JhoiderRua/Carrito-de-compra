@@ -1,6 +1,6 @@
 //style
 import footerMdoule from "./Footer.module.css";
-
+//footer
 export function Footer() {
   return (
     <footer className={footerMdoule.footer}>
